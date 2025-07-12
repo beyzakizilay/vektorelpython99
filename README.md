@@ -4,4 +4,4 @@
 ## ekran görüntüsü 
 
 <img src="resim/ss.png">
-<img heigth="50" src="resim/ss.png">
+<img height="150" src="resim/ss.png">
