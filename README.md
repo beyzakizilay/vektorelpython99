@@ -4,4 +4,5 @@
 
 
 <img height="150" src="resim/ss.png">
-# bu proje yapılan ilk projedir
+
+# bu yapılan ilk projedir
