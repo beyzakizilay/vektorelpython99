@@ -1,2 +1,0 @@
-def anamenu ():
-    print("ANA ")

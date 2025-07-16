@@ -1,0 +1,22 @@
+print("╔═════════════════════╗")
+print("║    VEKTOREL APP     ║")
+print("║                     ║")
+print("║  1-Toplama          ║")
+print("║  2-Çıkarma          ║")
+print("║  3-                 ║")
+print("║  4-                 ║")
+print("║  5-                 ║")
+print("║  6-                 ║")
+print("║  7-                 ║")
+print("║  8-                 ║")
+print("║  9-                 ║")
+print("║  10-                ║")
+print("║  seçiminiz nedir?   ║")
+print("╚═════════════════════╝")
+secim = input() #inputla alınan bilgi string
+print("Seçiminiz:",secim,"idi.")
+if secim =="1": print("Toplamayı seçtiniz")
+if secim == "2": print("Çıkarmayı seçtiniz")
+if secim == "11": print("Hatalı kodlama yaptınız")
+
+
